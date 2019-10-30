@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Criando um tipo de dados enumerado (bool3S) para representar um booleano com 3 estados:
+// Criando um tipo de dados enumerado (bool3S) para representar um booleano com 3 estados
 // TRUE_3S, FALSE_3S e UNDEF_3S
 
 enum bool3S {
